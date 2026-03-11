@@ -40,11 +40,10 @@ Ether / IP / TCP 121.254.178.253:http > 10.0.2.15:40996
 
 Install the required library:
 
-sudo su
-git clone https://github.com/vinayakshakyawal4-commits/packet-sniffer.git
-cd packet-sniffer
+sudo su 
+git clone https://github.com/vinayakshakyawal4-commits/packet-sniffer.git 
+cd packet-sniffer 
 chmod +x sniffer.py
-
 ## How to Run
 
 Run the Python script:
